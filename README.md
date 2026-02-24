@@ -1,0 +1,2 @@
+# duguru
+app de astrologia
