@@ -1,0 +1,157 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// User — Usuário autenticado
+// ─────────────────────────────────────────────────────────────────────────────
+model User {
+  id           String   @id @default(cuid())
+  name         String
+  email        String   @unique
+  passwordHash String
+
+  avatarUrl String?
+
+  /// Data de nascimento (sem horário)
+  birthDate    DateTime @db.Date
+  /// "HH:MM" | null → usa 12:00 (meio-dia solar) se ausente
+  birthTime    String?
+  birthCity    String
+  birthCountry String
+  birthLat     Float
+  birthLon     Float
+  /// IANA timezone (ex: "America/Sao_Paulo")
+  timezone     String
+
+  /// Sistema de casas: P=Placidus, K=Koch, W=WholeSign, E=Equal, C=Campanus
+  houseSystem String @default("P")
+
+  /// Signo solar calculado (ex: "aries")
+  sunSign    String?
+  /// Signo ascendente calculado (ex: "capricorn")
+  ascendant  String?
+
+  locale         String  @default("pt-BR")
+  onboardingDone Boolean @default(false)
+
+  /// Conta bloqueada até esta data após 5 tentativas de login falhadas
+  lockedUntil DateTime?
+  /// Contador de tentativas de login falhadas consecutivas
+  failedLoginAttempts Int @default(0)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  refreshTokens        RefreshToken[]
+  natalChartCache      NatalChartCache?
+  passwordResetTokens  PasswordResetToken[]
+
+  @@map("users")
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// PasswordResetToken — Tokens de recuperação de senha (válidos por 1h)
+// ─────────────────────────────────────────────────────────────────────────────
+model PasswordResetToken {
+  id        String    @id @default(cuid())
+  userId    String
+  /// SHA-256 hash do token UUID (nunca em texto plano)
+  tokenHash String    @unique
+  expiresAt DateTime
+  usedAt    DateTime?
+  createdAt DateTime  @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@map("password_reset_tokens")
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// RefreshToken — Deny-list para Refresh Token Rotation
+// ─────────────────────────────────────────────────────────────────────────────
+model RefreshToken {
+  id        String    @id @default(cuid())
+  userId    String
+  /// Hash bcrypt do token (nunca armazenar token em texto plano)
+  tokenHash String    @unique
+  expiresAt DateTime
+  revokedAt DateTime?
+  createdAt DateTime  @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@map("refresh_tokens")
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// NatalChartCache — Cache do mapa natal (TTL 24h)
+// ─────────────────────────────────────────────────────────────────────────────
+model NatalChartCache {
+  id      String @id @default(cuid())
+  userId  String @unique
+  /// Chave composta: "{date_utc}:{lat}:{lon}:{houseSystem}"
+  cacheKey String @unique
+  /// JSON com posições + casas + aspectos calculados
+  payload  Json
+  calculatedAt DateTime
+  /// calculatedAt + 24h
+  expiresAt    DateTime
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("natal_chart_cache")
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// DailyContent — Conteúdo diário (planeta, lua, frases, alertas)
+// ─────────────────────────────────────────────────────────────────────────────
+model DailyContent {
+  id     String   @id @default(cuid())
+  /// Data do conteúdo (1 registro por dia)
+  date   DateTime @unique @db.Date
+
+  planet          String
+  planetInfluence String
+  moonPhase       String
+  moonDescription String
+  moonNextCycle   DateTime @db.Date
+
+  inspirationalQuote String
+
+  /// [{ event: string, startDate: string, endDate: string, signs: string[], tip: string }]
+  alerts Json
+
+  createdAt DateTime @default(now())
+
+  @@map("daily_content")
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// CompatibilityScore — Scores pré-calculados (12×12 signos)
+// ─────────────────────────────────────────────────────────────────────────────
+model CompatibilityScore {
+  id         String @id @default(cuid())
+  /// Signo 1 (ex: "aries")
+  sign1      String
+  /// Signo 2 (ex: "leo")
+  sign2      String
+  /// Score de 0–100
+  romance    Int
+  friendship Int
+  work       Int
+  updatedAt  DateTime @updatedAt
+
+  @@unique([sign1, sign2])
+  @@map("compatibility_scores")
+}

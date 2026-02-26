@@ -1,0 +1,14 @@
+User-agent: *
+# Bloqueia tudo por padrão (páginas autenticadas não devem ser indexadas)
+Disallow: /
+
+# Permite indexação das páginas públicas
+Allow: /boas-vindas
+Allow: /login
+Allow: /cadastro
+Allow: /esqueci-a-senha
+Allow: /redefinir-senha
+
+# Sitemap
+Sitemap: https://duguru.app/sitemap.xml
+

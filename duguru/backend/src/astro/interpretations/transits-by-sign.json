@@ -1,0 +1,842 @@
+{
+  "aries_sun_transit": {
+    "love": "O trânsito de Sol sobre Áries aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Sol em Áries estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Sol em trânsito por Áries pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Sol influenciando Áries, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Sol, o/a Áries é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aries_moon_transit": {
+    "love": "O trânsito de Lua sobre Áries aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Lua em Áries estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Lua em trânsito por Áries pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Lua influenciando Áries, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Lua, o/a Áries é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aries_mercury_transit": {
+    "love": "O trânsito de Mercúrio sobre Áries aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Mercúrio em Áries estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Mercúrio em trânsito por Áries pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Mercúrio influenciando Áries, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Mercúrio, o/a Áries é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aries_venus_transit": {
+    "love": "O trânsito de Vênus sobre Áries aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Vênus em Áries estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Vênus em trânsito por Áries pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Vênus influenciando Áries, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Vênus, o/a Áries é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aries_mars_transit": {
+    "love": "O trânsito de Marte sobre Áries aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Marte em Áries estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Marte em trânsito por Áries pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Marte influenciando Áries, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Marte, o/a Áries é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aries_jupiter_transit": {
+    "love": "O trânsito de Júpiter sobre Áries aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Júpiter em Áries estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Júpiter em trânsito por Áries pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Júpiter influenciando Áries, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Júpiter, o/a Áries é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aries_saturn_transit": {
+    "love": "O trânsito de Saturno sobre Áries aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Saturno em Áries estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Saturno em trânsito por Áries pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Saturno influenciando Áries, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Saturno, o/a Áries é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aries_uranus_transit": {
+    "love": "O trânsito de Urano sobre Áries aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Urano em Áries estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Urano em trânsito por Áries pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Urano influenciando Áries, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Urano, o/a Áries é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aries_neptune_transit": {
+    "love": "O trânsito de Netuno sobre Áries aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Netuno em Áries estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Netuno em trânsito por Áries pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Netuno influenciando Áries, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Netuno, o/a Áries é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aries_pluto_transit": {
+    "love": "O trânsito de Plutão sobre Áries aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Plutão em Áries estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Plutão em trânsito por Áries pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Plutão influenciando Áries, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Plutão, o/a Áries é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "taurus_sun_transit": {
+    "love": "O trânsito de Sol sobre Touro aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Sol em Touro estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Sol em trânsito por Touro pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Sol influenciando Touro, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Sol, o/a Touro é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "taurus_moon_transit": {
+    "love": "O trânsito de Lua sobre Touro aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Lua em Touro estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Lua em trânsito por Touro pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Lua influenciando Touro, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Lua, o/a Touro é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "taurus_mercury_transit": {
+    "love": "O trânsito de Mercúrio sobre Touro aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Mercúrio em Touro estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Mercúrio em trânsito por Touro pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Mercúrio influenciando Touro, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Mercúrio, o/a Touro é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "taurus_venus_transit": {
+    "love": "O trânsito de Vênus sobre Touro aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Vênus em Touro estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Vênus em trânsito por Touro pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Vênus influenciando Touro, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Vênus, o/a Touro é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "taurus_mars_transit": {
+    "love": "O trânsito de Marte sobre Touro aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Marte em Touro estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Marte em trânsito por Touro pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Marte influenciando Touro, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Marte, o/a Touro é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "taurus_jupiter_transit": {
+    "love": "O trânsito de Júpiter sobre Touro aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Júpiter em Touro estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Júpiter em trânsito por Touro pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Júpiter influenciando Touro, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Júpiter, o/a Touro é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "taurus_saturn_transit": {
+    "love": "O trânsito de Saturno sobre Touro aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Saturno em Touro estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Saturno em trânsito por Touro pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Saturno influenciando Touro, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Saturno, o/a Touro é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "taurus_uranus_transit": {
+    "love": "O trânsito de Urano sobre Touro aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Urano em Touro estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Urano em trânsito por Touro pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Urano influenciando Touro, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Urano, o/a Touro é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "taurus_neptune_transit": {
+    "love": "O trânsito de Netuno sobre Touro aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Netuno em Touro estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Netuno em trânsito por Touro pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Netuno influenciando Touro, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Netuno, o/a Touro é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "taurus_pluto_transit": {
+    "love": "O trânsito de Plutão sobre Touro aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Plutão em Touro estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Plutão em trânsito por Touro pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Plutão influenciando Touro, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Plutão, o/a Touro é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "gemini_sun_transit": {
+    "love": "O trânsito de Sol sobre Gêmeos aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Sol em Gêmeos estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Sol em trânsito por Gêmeos pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Sol influenciando Gêmeos, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Sol, o/a Gêmeos é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "gemini_moon_transit": {
+    "love": "O trânsito de Lua sobre Gêmeos aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Lua em Gêmeos estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Lua em trânsito por Gêmeos pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Lua influenciando Gêmeos, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Lua, o/a Gêmeos é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "gemini_mercury_transit": {
+    "love": "O trânsito de Mercúrio sobre Gêmeos aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Mercúrio em Gêmeos estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Mercúrio em trânsito por Gêmeos pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Mercúrio influenciando Gêmeos, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Mercúrio, o/a Gêmeos é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "gemini_venus_transit": {
+    "love": "O trânsito de Vênus sobre Gêmeos aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Vênus em Gêmeos estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Vênus em trânsito por Gêmeos pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Vênus influenciando Gêmeos, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Vênus, o/a Gêmeos é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "gemini_mars_transit": {
+    "love": "O trânsito de Marte sobre Gêmeos aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Marte em Gêmeos estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Marte em trânsito por Gêmeos pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Marte influenciando Gêmeos, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Marte, o/a Gêmeos é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "gemini_jupiter_transit": {
+    "love": "O trânsito de Júpiter sobre Gêmeos aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Júpiter em Gêmeos estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Júpiter em trânsito por Gêmeos pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Júpiter influenciando Gêmeos, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Júpiter, o/a Gêmeos é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "gemini_saturn_transit": {
+    "love": "O trânsito de Saturno sobre Gêmeos aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Saturno em Gêmeos estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Saturno em trânsito por Gêmeos pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Saturno influenciando Gêmeos, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Saturno, o/a Gêmeos é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "gemini_uranus_transit": {
+    "love": "O trânsito de Urano sobre Gêmeos aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Urano em Gêmeos estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Urano em trânsito por Gêmeos pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Urano influenciando Gêmeos, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Urano, o/a Gêmeos é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "gemini_neptune_transit": {
+    "love": "O trânsito de Netuno sobre Gêmeos aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Netuno em Gêmeos estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Netuno em trânsito por Gêmeos pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Netuno influenciando Gêmeos, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Netuno, o/a Gêmeos é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "gemini_pluto_transit": {
+    "love": "O trânsito de Plutão sobre Gêmeos aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Plutão em Gêmeos estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Plutão em trânsito por Gêmeos pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Plutão influenciando Gêmeos, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Plutão, o/a Gêmeos é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "cancer_sun_transit": {
+    "love": "O trânsito de Sol sobre Câncer aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Sol em Câncer estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Sol em trânsito por Câncer pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Sol influenciando Câncer, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Sol, o/a Câncer é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "cancer_moon_transit": {
+    "love": "O trânsito de Lua sobre Câncer aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Lua em Câncer estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Lua em trânsito por Câncer pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Lua influenciando Câncer, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Lua, o/a Câncer é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "cancer_mercury_transit": {
+    "love": "O trânsito de Mercúrio sobre Câncer aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Mercúrio em Câncer estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Mercúrio em trânsito por Câncer pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Mercúrio influenciando Câncer, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Mercúrio, o/a Câncer é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "cancer_venus_transit": {
+    "love": "O trânsito de Vênus sobre Câncer aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Vênus em Câncer estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Vênus em trânsito por Câncer pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Vênus influenciando Câncer, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Vênus, o/a Câncer é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "cancer_mars_transit": {
+    "love": "O trânsito de Marte sobre Câncer aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Marte em Câncer estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Marte em trânsito por Câncer pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Marte influenciando Câncer, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Marte, o/a Câncer é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "cancer_jupiter_transit": {
+    "love": "O trânsito de Júpiter sobre Câncer aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Júpiter em Câncer estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Júpiter em trânsito por Câncer pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Júpiter influenciando Câncer, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Júpiter, o/a Câncer é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "cancer_saturn_transit": {
+    "love": "O trânsito de Saturno sobre Câncer aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Saturno em Câncer estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Saturno em trânsito por Câncer pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Saturno influenciando Câncer, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Saturno, o/a Câncer é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "cancer_uranus_transit": {
+    "love": "O trânsito de Urano sobre Câncer aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Urano em Câncer estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Urano em trânsito por Câncer pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Urano influenciando Câncer, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Urano, o/a Câncer é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "cancer_neptune_transit": {
+    "love": "O trânsito de Netuno sobre Câncer aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Netuno em Câncer estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Netuno em trânsito por Câncer pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Netuno influenciando Câncer, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Netuno, o/a Câncer é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "cancer_pluto_transit": {
+    "love": "O trânsito de Plutão sobre Câncer aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Plutão em Câncer estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Plutão em trânsito por Câncer pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Plutão influenciando Câncer, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Plutão, o/a Câncer é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "leo_sun_transit": {
+    "love": "O trânsito de Sol sobre Leão aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Sol em Leão estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Sol em trânsito por Leão pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Sol influenciando Leão, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Sol, o/a Leão é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "leo_moon_transit": {
+    "love": "O trânsito de Lua sobre Leão aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Lua em Leão estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Lua em trânsito por Leão pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Lua influenciando Leão, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Lua, o/a Leão é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "leo_mercury_transit": {
+    "love": "O trânsito de Mercúrio sobre Leão aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Mercúrio em Leão estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Mercúrio em trânsito por Leão pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Mercúrio influenciando Leão, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Mercúrio, o/a Leão é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "leo_venus_transit": {
+    "love": "O trânsito de Vênus sobre Leão aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Vênus em Leão estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Vênus em trânsito por Leão pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Vênus influenciando Leão, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Vênus, o/a Leão é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "leo_mars_transit": {
+    "love": "O trânsito de Marte sobre Leão aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Marte em Leão estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Marte em trânsito por Leão pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Marte influenciando Leão, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Marte, o/a Leão é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "leo_jupiter_transit": {
+    "love": "O trânsito de Júpiter sobre Leão aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Júpiter em Leão estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Júpiter em trânsito por Leão pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Júpiter influenciando Leão, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Júpiter, o/a Leão é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "leo_saturn_transit": {
+    "love": "O trânsito de Saturno sobre Leão aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Saturno em Leão estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Saturno em trânsito por Leão pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Saturno influenciando Leão, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Saturno, o/a Leão é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "leo_uranus_transit": {
+    "love": "O trânsito de Urano sobre Leão aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Urano em Leão estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Urano em trânsito por Leão pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Urano influenciando Leão, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Urano, o/a Leão é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "leo_neptune_transit": {
+    "love": "O trânsito de Netuno sobre Leão aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Netuno em Leão estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Netuno em trânsito por Leão pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Netuno influenciando Leão, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Netuno, o/a Leão é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "leo_pluto_transit": {
+    "love": "O trânsito de Plutão sobre Leão aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Plutão em Leão estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Plutão em trânsito por Leão pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Plutão influenciando Leão, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Plutão, o/a Leão é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "virgo_sun_transit": {
+    "love": "O trânsito de Sol sobre Virgem aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Sol em Virgem estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Sol em trânsito por Virgem pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Sol influenciando Virgem, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Sol, o/a Virgem é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "virgo_moon_transit": {
+    "love": "O trânsito de Lua sobre Virgem aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Lua em Virgem estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Lua em trânsito por Virgem pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Lua influenciando Virgem, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Lua, o/a Virgem é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "virgo_mercury_transit": {
+    "love": "O trânsito de Mercúrio sobre Virgem aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Mercúrio em Virgem estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Mercúrio em trânsito por Virgem pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Mercúrio influenciando Virgem, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Mercúrio, o/a Virgem é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "virgo_venus_transit": {
+    "love": "O trânsito de Vênus sobre Virgem aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Vênus em Virgem estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Vênus em trânsito por Virgem pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Vênus influenciando Virgem, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Vênus, o/a Virgem é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "virgo_mars_transit": {
+    "love": "O trânsito de Marte sobre Virgem aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Marte em Virgem estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Marte em trânsito por Virgem pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Marte influenciando Virgem, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Marte, o/a Virgem é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "virgo_jupiter_transit": {
+    "love": "O trânsito de Júpiter sobre Virgem aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Júpiter em Virgem estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Júpiter em trânsito por Virgem pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Júpiter influenciando Virgem, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Júpiter, o/a Virgem é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "virgo_saturn_transit": {
+    "love": "O trânsito de Saturno sobre Virgem aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Saturno em Virgem estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Saturno em trânsito por Virgem pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Saturno influenciando Virgem, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Saturno, o/a Virgem é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "virgo_uranus_transit": {
+    "love": "O trânsito de Urano sobre Virgem aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Urano em Virgem estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Urano em trânsito por Virgem pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Urano influenciando Virgem, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Urano, o/a Virgem é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "virgo_neptune_transit": {
+    "love": "O trânsito de Netuno sobre Virgem aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Netuno em Virgem estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Netuno em trânsito por Virgem pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Netuno influenciando Virgem, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Netuno, o/a Virgem é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "virgo_pluto_transit": {
+    "love": "O trânsito de Plutão sobre Virgem aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Plutão em Virgem estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Plutão em trânsito por Virgem pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Plutão influenciando Virgem, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Plutão, o/a Virgem é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "libra_sun_transit": {
+    "love": "O trânsito de Sol sobre Libra aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Sol em Libra estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Sol em trânsito por Libra pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Sol influenciando Libra, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Sol, o/a Libra é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "libra_moon_transit": {
+    "love": "O trânsito de Lua sobre Libra aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Lua em Libra estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Lua em trânsito por Libra pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Lua influenciando Libra, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Lua, o/a Libra é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "libra_mercury_transit": {
+    "love": "O trânsito de Mercúrio sobre Libra aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Mercúrio em Libra estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Mercúrio em trânsito por Libra pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Mercúrio influenciando Libra, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Mercúrio, o/a Libra é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "libra_venus_transit": {
+    "love": "O trânsito de Vênus sobre Libra aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Vênus em Libra estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Vênus em trânsito por Libra pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Vênus influenciando Libra, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Vênus, o/a Libra é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "libra_mars_transit": {
+    "love": "O trânsito de Marte sobre Libra aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Marte em Libra estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Marte em trânsito por Libra pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Marte influenciando Libra, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Marte, o/a Libra é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "libra_jupiter_transit": {
+    "love": "O trânsito de Júpiter sobre Libra aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Júpiter em Libra estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Júpiter em trânsito por Libra pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Júpiter influenciando Libra, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Júpiter, o/a Libra é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "libra_saturn_transit": {
+    "love": "O trânsito de Saturno sobre Libra aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Saturno em Libra estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Saturno em trânsito por Libra pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Saturno influenciando Libra, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Saturno, o/a Libra é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "libra_uranus_transit": {
+    "love": "O trânsito de Urano sobre Libra aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Urano em Libra estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Urano em trânsito por Libra pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Urano influenciando Libra, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Urano, o/a Libra é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "libra_neptune_transit": {
+    "love": "O trânsito de Netuno sobre Libra aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Netuno em Libra estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Netuno em trânsito por Libra pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Netuno influenciando Libra, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Netuno, o/a Libra é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "libra_pluto_transit": {
+    "love": "O trânsito de Plutão sobre Libra aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Plutão em Libra estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Plutão em trânsito por Libra pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Plutão influenciando Libra, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Plutão, o/a Libra é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "scorpio_sun_transit": {
+    "love": "O trânsito de Sol sobre Escorpião aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Sol em Escorpião estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Sol em trânsito por Escorpião pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Sol influenciando Escorpião, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Sol, o/a Escorpião é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "scorpio_moon_transit": {
+    "love": "O trânsito de Lua sobre Escorpião aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Lua em Escorpião estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Lua em trânsito por Escorpião pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Lua influenciando Escorpião, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Lua, o/a Escorpião é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "scorpio_mercury_transit": {
+    "love": "O trânsito de Mercúrio sobre Escorpião aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Mercúrio em Escorpião estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Mercúrio em trânsito por Escorpião pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Mercúrio influenciando Escorpião, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Mercúrio, o/a Escorpião é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "scorpio_venus_transit": {
+    "love": "O trânsito de Vênus sobre Escorpião aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Vênus em Escorpião estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Vênus em trânsito por Escorpião pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Vênus influenciando Escorpião, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Vênus, o/a Escorpião é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "scorpio_mars_transit": {
+    "love": "O trânsito de Marte sobre Escorpião aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Marte em Escorpião estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Marte em trânsito por Escorpião pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Marte influenciando Escorpião, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Marte, o/a Escorpião é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "scorpio_jupiter_transit": {
+    "love": "O trânsito de Júpiter sobre Escorpião aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Júpiter em Escorpião estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Júpiter em trânsito por Escorpião pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Júpiter influenciando Escorpião, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Júpiter, o/a Escorpião é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "scorpio_saturn_transit": {
+    "love": "O trânsito de Saturno sobre Escorpião aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Saturno em Escorpião estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Saturno em trânsito por Escorpião pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Saturno influenciando Escorpião, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Saturno, o/a Escorpião é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "scorpio_uranus_transit": {
+    "love": "O trânsito de Urano sobre Escorpião aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Urano em Escorpião estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Urano em trânsito por Escorpião pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Urano influenciando Escorpião, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Urano, o/a Escorpião é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "scorpio_neptune_transit": {
+    "love": "O trânsito de Netuno sobre Escorpião aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Netuno em Escorpião estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Netuno em trânsito por Escorpião pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Netuno influenciando Escorpião, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Netuno, o/a Escorpião é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "scorpio_pluto_transit": {
+    "love": "O trânsito de Plutão sobre Escorpião aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Plutão em Escorpião estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Plutão em trânsito por Escorpião pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Plutão influenciando Escorpião, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Plutão, o/a Escorpião é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "sagittarius_sun_transit": {
+    "love": "O trânsito de Sol sobre Sagitário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Sol em Sagitário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Sol em trânsito por Sagitário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Sol influenciando Sagitário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Sol, o/a Sagitário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "sagittarius_moon_transit": {
+    "love": "O trânsito de Lua sobre Sagitário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Lua em Sagitário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Lua em trânsito por Sagitário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Lua influenciando Sagitário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Lua, o/a Sagitário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "sagittarius_mercury_transit": {
+    "love": "O trânsito de Mercúrio sobre Sagitário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Mercúrio em Sagitário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Mercúrio em trânsito por Sagitário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Mercúrio influenciando Sagitário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Mercúrio, o/a Sagitário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "sagittarius_venus_transit": {
+    "love": "O trânsito de Vênus sobre Sagitário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Vênus em Sagitário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Vênus em trânsito por Sagitário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Vênus influenciando Sagitário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Vênus, o/a Sagitário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "sagittarius_mars_transit": {
+    "love": "O trânsito de Marte sobre Sagitário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Marte em Sagitário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Marte em trânsito por Sagitário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Marte influenciando Sagitário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Marte, o/a Sagitário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "sagittarius_jupiter_transit": {
+    "love": "O trânsito de Júpiter sobre Sagitário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Júpiter em Sagitário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Júpiter em trânsito por Sagitário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Júpiter influenciando Sagitário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Júpiter, o/a Sagitário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "sagittarius_saturn_transit": {
+    "love": "O trânsito de Saturno sobre Sagitário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Saturno em Sagitário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Saturno em trânsito por Sagitário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Saturno influenciando Sagitário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Saturno, o/a Sagitário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "sagittarius_uranus_transit": {
+    "love": "O trânsito de Urano sobre Sagitário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Urano em Sagitário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Urano em trânsito por Sagitário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Urano influenciando Sagitário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Urano, o/a Sagitário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "sagittarius_neptune_transit": {
+    "love": "O trânsito de Netuno sobre Sagitário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Netuno em Sagitário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Netuno em trânsito por Sagitário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Netuno influenciando Sagitário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Netuno, o/a Sagitário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "sagittarius_pluto_transit": {
+    "love": "O trânsito de Plutão sobre Sagitário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Plutão em Sagitário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Plutão em trânsito por Sagitário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Plutão influenciando Sagitário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Plutão, o/a Sagitário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "capricorn_sun_transit": {
+    "love": "O trânsito de Sol sobre Capricórnio aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Sol em Capricórnio estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Sol em trânsito por Capricórnio pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Sol influenciando Capricórnio, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Sol, o/a Capricórnio é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "capricorn_moon_transit": {
+    "love": "O trânsito de Lua sobre Capricórnio aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Lua em Capricórnio estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Lua em trânsito por Capricórnio pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Lua influenciando Capricórnio, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Lua, o/a Capricórnio é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "capricorn_mercury_transit": {
+    "love": "O trânsito de Mercúrio sobre Capricórnio aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Mercúrio em Capricórnio estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Mercúrio em trânsito por Capricórnio pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Mercúrio influenciando Capricórnio, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Mercúrio, o/a Capricórnio é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "capricorn_venus_transit": {
+    "love": "O trânsito de Vênus sobre Capricórnio aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Vênus em Capricórnio estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Vênus em trânsito por Capricórnio pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Vênus influenciando Capricórnio, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Vênus, o/a Capricórnio é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "capricorn_mars_transit": {
+    "love": "O trânsito de Marte sobre Capricórnio aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Marte em Capricórnio estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Marte em trânsito por Capricórnio pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Marte influenciando Capricórnio, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Marte, o/a Capricórnio é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "capricorn_jupiter_transit": {
+    "love": "O trânsito de Júpiter sobre Capricórnio aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Júpiter em Capricórnio estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Júpiter em trânsito por Capricórnio pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Júpiter influenciando Capricórnio, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Júpiter, o/a Capricórnio é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "capricorn_saturn_transit": {
+    "love": "O trânsito de Saturno sobre Capricórnio aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Saturno em Capricórnio estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Saturno em trânsito por Capricórnio pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Saturno influenciando Capricórnio, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Saturno, o/a Capricórnio é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "capricorn_uranus_transit": {
+    "love": "O trânsito de Urano sobre Capricórnio aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Urano em Capricórnio estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Urano em trânsito por Capricórnio pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Urano influenciando Capricórnio, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Urano, o/a Capricórnio é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "capricorn_neptune_transit": {
+    "love": "O trânsito de Netuno sobre Capricórnio aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Netuno em Capricórnio estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Netuno em trânsito por Capricórnio pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Netuno influenciando Capricórnio, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Netuno, o/a Capricórnio é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "capricorn_pluto_transit": {
+    "love": "O trânsito de Plutão sobre Capricórnio aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Plutão em Capricórnio estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Plutão em trânsito por Capricórnio pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Plutão influenciando Capricórnio, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Plutão, o/a Capricórnio é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aquarius_sun_transit": {
+    "love": "O trânsito de Sol sobre Aquário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Sol em Aquário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Sol em trânsito por Aquário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Sol influenciando Aquário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Sol, o/a Aquário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aquarius_moon_transit": {
+    "love": "O trânsito de Lua sobre Aquário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Lua em Aquário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Lua em trânsito por Aquário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Lua influenciando Aquário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Lua, o/a Aquário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aquarius_mercury_transit": {
+    "love": "O trânsito de Mercúrio sobre Aquário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Mercúrio em Aquário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Mercúrio em trânsito por Aquário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Mercúrio influenciando Aquário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Mercúrio, o/a Aquário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aquarius_venus_transit": {
+    "love": "O trânsito de Vênus sobre Aquário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Vênus em Aquário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Vênus em trânsito por Aquário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Vênus influenciando Aquário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Vênus, o/a Aquário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aquarius_mars_transit": {
+    "love": "O trânsito de Marte sobre Aquário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Marte em Aquário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Marte em trânsito por Aquário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Marte influenciando Aquário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Marte, o/a Aquário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aquarius_jupiter_transit": {
+    "love": "O trânsito de Júpiter sobre Aquário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Júpiter em Aquário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Júpiter em trânsito por Aquário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Júpiter influenciando Aquário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Júpiter, o/a Aquário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aquarius_saturn_transit": {
+    "love": "O trânsito de Saturno sobre Aquário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Saturno em Aquário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Saturno em trânsito por Aquário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Saturno influenciando Aquário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Saturno, o/a Aquário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aquarius_uranus_transit": {
+    "love": "O trânsito de Urano sobre Aquário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Urano em Aquário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Urano em trânsito por Aquário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Urano influenciando Aquário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Urano, o/a Aquário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aquarius_neptune_transit": {
+    "love": "O trânsito de Netuno sobre Aquário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Netuno em Aquário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Netuno em trânsito por Aquário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Netuno influenciando Aquário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Netuno, o/a Aquário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "aquarius_pluto_transit": {
+    "love": "O trânsito de Plutão sobre Aquário aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Plutão em Aquário estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Plutão em trânsito por Aquário pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Plutão influenciando Aquário, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Plutão, o/a Aquário é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "pisces_sun_transit": {
+    "love": "O trânsito de Sol sobre Peixes aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Sol em Peixes estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Sol em trânsito por Peixes pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Sol influenciando Peixes, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Sol, o/a Peixes é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "pisces_moon_transit": {
+    "love": "O trânsito de Lua sobre Peixes aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Lua em Peixes estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Lua em trânsito por Peixes pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Lua influenciando Peixes, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Lua, o/a Peixes é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "pisces_mercury_transit": {
+    "love": "O trânsito de Mercúrio sobre Peixes aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Mercúrio em Peixes estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Mercúrio em trânsito por Peixes pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Mercúrio influenciando Peixes, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Mercúrio, o/a Peixes é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "pisces_venus_transit": {
+    "love": "O trânsito de Vênus sobre Peixes aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Vênus em Peixes estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Vênus em trânsito por Peixes pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Vênus influenciando Peixes, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Vênus, o/a Peixes é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "pisces_mars_transit": {
+    "love": "O trânsito de Marte sobre Peixes aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Marte em Peixes estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Marte em trânsito por Peixes pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Marte influenciando Peixes, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Marte, o/a Peixes é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "pisces_jupiter_transit": {
+    "love": "O trânsito de Júpiter sobre Peixes aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Júpiter em Peixes estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Júpiter em trânsito por Peixes pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Júpiter influenciando Peixes, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Júpiter, o/a Peixes é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "pisces_saturn_transit": {
+    "love": "O trânsito de Saturno sobre Peixes aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Saturno em Peixes estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Saturno em trânsito por Peixes pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Saturno influenciando Peixes, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Saturno, o/a Peixes é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "pisces_uranus_transit": {
+    "love": "O trânsito de Urano sobre Peixes aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Urano em Peixes estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Urano em trânsito por Peixes pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Urano influenciando Peixes, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Urano, o/a Peixes é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "pisces_neptune_transit": {
+    "love": "O trânsito de Netuno sobre Peixes aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Netuno em Peixes estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Netuno em trânsito por Peixes pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Netuno influenciando Peixes, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Netuno, o/a Peixes é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  },
+  "pisces_pluto_transit": {
+    "love": "O trânsito de Plutão sobre Peixes aquece os relacionamentos. Expresse sentimentos guardados e aprofunde laços afetivos.",
+    "work": "Profissionalmente, Plutão em Peixes estimula novas abordagens. Use a criatividade para superar desafios.",
+    "health": "Plutão em trânsito por Peixes pede equilíbrio. Reserve momentos de descanso e cuide da saúde emocional.",
+    "finance": "Com Plutão influenciando Peixes, avalie oportunidades financeiras com cautela e planejamento.",
+    "advice": "Sob Plutão, o/a Peixes é convidado(a) a refletir sobre seus ciclos. Confie no processo e acolha as transformações."
+  }
+}

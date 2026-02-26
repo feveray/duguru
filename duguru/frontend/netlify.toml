@@ -1,0 +1,75 @@
+# netlify.toml — Configuração de deploy do duGuru (frontend) no Netlify
+# T130 [INFRA]
+
+[build]
+  command   = "npm run build"
+  publish   = "dist"
+
+# ─── SPA Redirect ────────────────────────────────────────────────────────────
+# Redireciona todas as rotas para index.html (React Router gerencia no cliente)
+[[redirects]]
+  from   = "/*"
+  to     = "/index.html"
+  status = 200
+
+# ─── Security Headers ────────────────────────────────────────────────────────
+[[headers]]
+  for = "/*"
+
+  [headers.values]
+    # Evita clickjacking
+    X-Frame-Options = "DENY"
+
+    # Previne MIME sniffing
+    X-Content-Type-Options = "nosniff"
+
+    # Força HTTPS por 1 ano (incluindo subdomínios)
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+
+    # Referrer policy
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+    # Permissions policy
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+    # Content Security Policy
+    # 'unsafe-inline' necessário para Vite em produção (hashes inline); ajustar após bundle analysis
+    Content-Security-Policy = """
+      default-src 'self';
+      script-src 'self' 'unsafe-inline';
+      style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
+      font-src 'self' https://fonts.gstatic.com;
+      img-src 'self' data: blob: https:;
+      connect-src 'self' https://duguru-api.railway.app https://api.opencagedata.com https://nominatim.openstreetmap.org https://*.sentry.io;
+      worker-src 'self';
+      manifest-src 'self';
+      frame-ancestors 'none';
+    """
+
+# ─── Cache para assets estáticos ─────────────────────────────────────────────
+[[headers]]
+  for = "/assets/*"
+
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/icons/*"
+
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/manifest.webmanifest"
+
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+    Content-Type  = "application/manifest+json"
+
+# ─── Variáveis de ambiente de produção ───────────────────────────────────────
+[context.production.environment]
+  VITE_API_BASE_URL     = "https://duguru-api.railway.app/api"
+  VITE_APP_VERSION      = "0.1.0"
+
+[context.deploy-preview.environment]
+  VITE_API_BASE_URL     = "https://duguru-api-staging.railway.app/api"

@@ -1,0 +1,39 @@
+/*
+ * tailwind.css — Entry point for Tailwind CSS v3
+ *
+ * Imports:
+ * 1. globals.css — design tokens (CSS custom properties)
+ * 2. Tailwind base / components / utilities
+ *
+ * Import order matters: globals must come first so CSS variables
+ * are defined before Tailwind utilities reference them.
+ */
+
+@import "./globals.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ────────────────────────────────────────────────────────────────
+ * Custom component classes
+ * (Prefer Tailwind utilities in JSX; add shared patterns here only)
+ * ──────────────────────────────────────────────────────────────── */
+
+@layer components {
+  .btn-primary {
+    @apply rounded-full bg-[var(--color-button)] px-6 py-3 text-sm font-semibold text-[var(--color-button-text)] transition-opacity hover:opacity-90 focus-visible:ring-2 focus-visible:ring-[var(--color-button)] focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+
+  .btn-secondary {
+    @apply rounded-full border border-[var(--color-button)] bg-transparent px-6 py-3 text-sm font-semibold text-[var(--color-link)] transition-colors hover:bg-[var(--color-button)] hover:text-[var(--color-button-text)] focus-visible:ring-2 focus-visible:ring-[var(--color-button)] focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+
+  .card {
+    @apply rounded-[var(--radius-lg)] bg-[var(--color-surface)] p-4 shadow-sm;
+  }
+
+  .input-base {
+    @apply w-full rounded-[var(--radius-md)] border border-[var(--color-border)] bg-[var(--color-bg)] px-4 py-3 text-sm text-[var(--color-headline)] placeholder:text-[var(--color-paragraph)] transition-colors focus-visible:border-[var(--color-button)] focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-[var(--color-button)];
+  }
+}
