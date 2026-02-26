@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#004643"/>
+
+  <!-- Crystal ball body -->
+  <circle cx="256" cy="270" r="140" fill="#abd1c6" fill-opacity="0.25" stroke="#abd1c6" stroke-width="3"/>
+
+  <!-- Crystal ball inner glow -->
+  <radialGradient id="glow" cx="35%" cy="35%" r="65%">
+    <stop offset="0%" stop-color="#fffffe" stop-opacity="0.5"/>
+    <stop offset="60%" stop-color="#abd1c6" stop-opacity="0.1"/>
+    <stop offset="100%" stop-color="#004643" stop-opacity="0.0"/>
+  </radialGradient>
+  <circle cx="256" cy="270" r="140" fill="url(#glow)"/>
+
+  <!-- Stars inside ball -->
+  <g fill="#fffffe" opacity="0.7">
+    <circle cx="210" cy="245" r="3"/>
+    <circle cx="230" cy="225" r="2"/>
+    <circle cx="270" cy="240" r="3.5"/>
+    <circle cx="295" cy="260" r="2"/>
+    <circle cx="245" cy="290" r="2.5"/>
+    <circle cx="285" cy="295" r="2"/>
+    <circle cx="220" cy="275" r="2"/>
+  </g>
+
+  <!-- Ball stand -->
+  <path d="M200 410 Q256 395 312 410 L325 430 Q256 440 187 430 Z" fill="#f9bc60"/>
+  <rect x="215" y="405" width="82" height="10" rx="5" fill="#f9bc60"/>
+
+  <!-- "dG" letters -->
+  <text x="256" y="290"
+        font-family="Georgia, serif"
+        font-size="60"
+        font-weight="700"
+        fill="#004643"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        opacity="0.6">dG</text>
+
+  <!-- Sparkle top -->
+  <g fill="#f9bc60">
+    <polygon points="256,90 261,108 279,108 265,119 270,137 256,126 242,137 247,119 233,108 251,108" opacity="0.9"/>
+  </g>
+</svg>

@@ -1,0 +1,367 @@
+{
+  "common": {
+    "appName": "duGuru",
+    "loading": "Carregando…",
+    "error": "Ocorreu um erro",
+    "retry": "Tentar novamente",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "close": "Fechar",
+    "back": "Voltar",
+    "next": "Próximo",
+    "previous": "Anterior",
+    "skip": "Pular",
+    "done": "Concluir",
+    "or": "ou",
+    "and": "e",
+    "yes": "Sim",
+    "no": "Não",
+    "required": "Obrigatório",
+    "optional": "Opcional",
+    "theme": {
+      "light": "Tema claro",
+      "dark": "Tema escuro",
+      "toggle": "Alternar tema"
+    },
+    "nav": {
+      "home": "Início",
+      "chart": "Mapa Astral",
+      "horoscope": "Horóscopo",
+      "compatibility": "Compatibilidade",
+      "profile": "Perfil",
+      "ariaLabel": "Navegação principal",
+      "sidebarLabel": "Menu lateral",
+      "avatarAlt": "Foto de perfil de {{name}}"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Entrar",
+      "subtitle": "Bem-vindo de volta!",
+      "email": "E-mail",
+      "password": "Senha",
+      "forgotPassword": "Esqueci minha senha",
+      "submit": "Entrar",
+      "noAccount": "Não tem conta?",
+      "createAccount": "Criar Conta",
+      "errors": {
+        "invalidCredentials": "E-mail ou senha incorretos.",
+        "tooManyAttempts": "Muitas tentativas. Tente novamente em {{minutes}} minuto(s).",
+        "accountLocked": "Conta bloqueada por segurança. Verifique seu e-mail."
+      }
+    },
+    "register": {
+      "title": "Criar Conta",
+      "subtitle": "Descubra o que os astros revelam sobre você.",
+      "fullName": "Nome completo",
+      "email": "E-mail",
+      "password": "Senha",
+      "passwordHint": "Mínimo 8 caracteres, 1 letra maiúscula e 1 número.",
+      "birthDate": "Data de nascimento",
+      "birthTime": "Horário de nascimento",
+      "birthTimeUnknown": "Não sei o horário",
+      "birthTimeUnknownHint": "Usaremos meio-dia solar (12:00). As casas astrológicas podem ser imprecisas.",
+      "birthPlace": "Local de nascimento",
+      "birthPlacePlaceholder": "Digite a cidade…",
+      "birthPlaceResults": "Resultados de cidades",
+      "name": "Nome completo",
+      "noTime": "Não sei o horário",
+      "hasAccount": "Já tem conta?",
+      "login": "Entrar",
+      "submit": "Criar Conta",
+      "alreadyHaveAccount": "Já tem conta?",
+      "signIn": "Entrar",
+      "errors": {
+        "emailTaken": "Este e-mail já está cadastrado. Tente fazer login.",
+        "weakPassword": "A senha não atende aos requisitos mínimos.",
+        "invalidEmail": "E-mail inválido.",
+        "nameRequired": "Nome é obrigatório.",
+        "birthDateRequired": "Data de nascimento é obrigatória.",
+        "birthPlaceRequired": "Local de nascimento é obrigatório."
+      }
+    },
+    "forgotPassword": {
+      "title": "Recuperar Senha",
+      "subtitle": "Informe seu e-mail para receber o link de redefinição.",
+      "email": "E-mail",
+      "submit": "Enviar link",
+      "successMessage": "Se o e-mail estiver cadastrado, você receberá as instruções em breve.",
+      "backToLogin": "Voltar ao login",
+      "successTitle": "E-mail enviado!",
+      "successBody": "Verifique sua caixa de entrada. O link expira em 1 hora."
+    },
+    "resetPassword": {
+      "title": "Redefinir Senha",
+      "newPassword": "Nova senha",
+      "password": "Nova senha",
+      "confirmPassword": "Confirmar nova senha",
+      "submit": "Redefinir senha",
+      "invalidLink": "Link inválido ou expirado. Solicite um novo link.",
+      "successTitle": "Senha redefinida!",
+      "redirecting": "Redirecionando para o login…",
+      "successMessage": "Senha redefinida com sucesso! Faça login com sua nova senha.",
+      "errors": {
+        "invalidToken": "Link inválido ou expirado. Solicite um novo link.",
+        "samePassword": "A nova senha deve ser diferente da atual."
+      }
+    },
+    "logout": "Sair",
+    "errors": {
+      "generic": "Algo deu errado. Por favor, tente novamente."
+    }
+  },
+  "chart": {
+    "title": "Meu Mapa Astral",
+    "subtitle": "Mapa natal de {{name}}",
+    "loading": "Calculando seu mapa astral…",
+    "impreciseHousesWarning": "Horário de nascimento desconhecido — posição das casas astrológicas pode ser imprecisa.",
+    "houseSystem": {
+      "label": "Sistema de casas",
+      "P": "Placidus",
+      "K": "Koch",
+      "W": "Signos Inteiros",
+      "E": "Igual",
+      "C": "Campanus",
+      "placidus": "Placidus",
+      "koch": "Koch",
+      "wholeSign": "Signo Inteiro",
+      "equal": "Igual",
+      "campanus": "Campanus"
+    },
+    "download": "Baixar Mapa",
+    "downloadPdf": "PDF",
+    "downloadPng": "PNG",
+    "sendEmail": "Enviar por E-mail",
+    "emailConfirmTitle": "Enviar para {{email}}?",
+    "emailSentSuccess": "Mapa enviado! Verifique sua caixa de entrada em até 60 segundos.",
+    "planet": {
+      "sun": "Sol",
+      "moon": "Lua",
+      "mercury": "Mercúrio",
+      "venus": "Vênus",
+      "mars": "Marte",
+      "jupiter": "Júpiter",
+      "saturn": "Saturno",
+      "uranus": "Urano",
+      "neptune": "Netuno",
+      "pluto": "Plutão"
+    },
+    "sign": {
+      "aries": "Áries",
+      "taurus": "Touro",
+      "gemini": "Gêmeos",
+      "cancer": "Câncer",
+      "leo": "Leão",
+      "virgo": "Virgem",
+      "libra": "Libra",
+      "scorpio": "Escorpião",
+      "sagittarius": "Sagitário",
+      "capricorn": "Capricórnio",
+      "aquarius": "Aquário",
+      "pisces": "Peixes"
+    },
+    "aspect": {
+      "conjunction": "Conjunção",
+      "opposition": "Oposição",
+      "trine": "Trígono",
+      "square": "Quadratura",
+      "sextile": "Sextil",
+      "quincunx": "Quincúncio"
+    },
+    "retrograde": "Retrógrado",
+    "table": {
+      "planet": "Planeta",
+      "sign": "Signo",
+      "degree": "Grau",
+      "house": "Casa",
+      "retrograde": "R"
+    },
+    "panel": {
+      "sign": "Signo",
+      "degree": "Grau",
+      "house": "Casa",
+      "interpretation": "Interpretação"
+    },
+    "svgAriaLabel": "Mandala do mapa astral de {{name}} — use a tabela abaixo para acessar as posições dos planetas.",
+    "error": "Erro ao calcular o mapa",
+    "selectPlanetHint": "Clique em um planeta para ver seus detalhes.",
+    "aspectsLabel": "Aspectos",
+    "wheelAriaLabel": "Mandala interativa do mapa natal"
+  },
+  "horoscope": {
+    "title": "Horóscopo",
+    "periods": {
+      "day": "Hoje",
+      "week": "Semana",
+      "month": "Mês",
+      "year": "Ano"
+    },
+    "viewBy": {
+      "sunSign": "Por Signo Solar",
+      "ascendant": "Por Ascendente"
+    },
+    "sections": {
+      "love": "Amor",
+      "work": "Trabalho",
+      "health": "Saúde",
+      "finance": "Finanças",
+      "advice": "Conselho Geral"
+    },
+    "loading": "Buscando seu horóscopo…",
+    "refreshing": "Atualizando horóscopo do dia…",
+    "periodLabel": "Selecione o período do horóscopo",
+    "signSwitch": {
+      "label": "Visualizar por signo",
+      "solar": "Por Signo Solar",
+      "ascendant": "Por Ascendente"
+    }
+  },
+  "dashboard": {
+    "greeting": "Olá, {{name}}!",
+    "dailyPlanet": {
+      "title": "Planeta do Dia",
+      "influence": "Influência"
+    },
+    "moonPhase": {
+      "title": "Fase da Lua",
+      "nextCycle": "Próximo ciclo: {{date}}"
+    },
+    "dailyQuote": {
+      "title": "Frase do Dia"
+    },
+    "alerts": {
+      "title": "Alertas Astrológicos",
+      "period": "{{start}} a {{end}}",
+      "noAlerts": "Nenhum alerta ativo no momento."
+    },
+    "compatTop3": {
+      "title": "Top 3 Compatibilidades",
+      "seeAll": "Ver todas",
+      "signCompatibility": "Compatibilidade com {{sign}}"
+    }
+  },
+  "compatibility": {
+    "title": "Compatibilidade",
+    "subtitle": "Descubra como dois signos ou mapas se relacionam astrologicamente.",
+    "tabs": "Abas de compatibilidade",
+    "tabSigns": "Signos",
+    "tabSynastry": "Sinastria",
+    "selectSign1": "Seu signo",
+    "selectSign2": "Signo para comparar",
+    "sign1": "Signo 1",
+    "sign2": "Signo 2",
+    "compare": "Comparar",
+    "scores": {
+      "romance": "Romance",
+      "friendship": "Amizade",
+      "work": "Trabalho"
+    },
+    "romance":    "Romance",
+    "friendship": "Amizade",
+    "work":       "Trabalho",
+    "overallLabel": "Compatibilidade Geral",
+    "overallSub":   "Score consolidado das três áreas",
+    "scoreSection": "Score de compatibilidade",
+    "aspectsSection": "Aspectos de sinastria",
+    "aspectsTitle":   "Aspectos entre os mapas",
+    "noAspects": "Nenhum aspecto significativo encontrado entre os dois mapas.",
+    "synastry": {
+      "title": "Sinastria",
+      "subtitle": "Compare dois mapas natais completos",
+      "person1": "Pessoa 1",
+      "person2": "Pessoa 2",
+      "calculate": "Calcular Sinastria",
+      "aspects": "Aspectos entre os mapas"
+    },
+    "person1": "Pessoa 1",
+    "person2": "Pessoa 2",
+    "calcSynastry": "Calcular Sinastria",
+    "calcLoading": "Calculando sinastria…"
+  },
+  "profile": {
+    "title": "Perfil",
+    "avatar": {
+      "label": "Foto de perfil",
+      "change": "Alterar foto",
+      "remove": "Remover foto",
+      "current": "Foto de perfil atual",
+      "fileInput": "Selecionar foto de perfil",
+      "hint": "Clique na foto para alterar. Máx. 5 MB (JPG, PNG, WebP).",
+      "save": "Salvar foto",
+      "saved": "Foto de perfil atualizada!",
+      "saveError": "Não foi possível salvar a foto. Tente novamente.",
+      "invalidType": "Formato inválido. Use JPG, PNG ou WebP.",
+      "tooLarge": "A imagem deve ter no máximo 5 MB.",
+      "cropHint": "Arraste para ajustar o recorte circular",
+      "errors": {
+        "tooLarge": "A imagem deve ter no máximo 5 MB.",
+        "invalidFormat": "Formato inválido. Use JPG, PNG ou WebP."
+      }
+    },
+    "form": {
+      "name": "Nome completo",
+      "birthDate": "Data de nascimento",
+      "birthTime": "Horário de nascimento",
+      "noTime": "Não sei o horário",
+      "houseSystem": "Sistema de casas",
+      "houses": {
+        "placidus": "Placidus",
+        "koch": "Koch",
+        "wholeSigns": "Signo Inteiro",
+        "equal": "Igual",
+        "campanus": "Campanus"
+      },
+      "save": "Salvar alterações",
+      "saved": "Perfil atualizado com sucesso!",
+      "saveError": "Não foi possível salvar. Tente novamente."
+    },
+    "fields": {
+      "fullName": "Nome completo",
+      "email": "E-mail",
+      "birthDate": "Data de nascimento",
+      "birthTime": "Horário de nascimento",
+      "birthPlace": "Local de nascimento",
+      "houseSystem": "Sistema de casas"
+    },
+    "save": "Salvar alterações",
+    "savedSuccess": "Perfil atualizado com sucesso!",
+    "installApp": "Instalar aplicativo",
+    "pwaInstallHint": "Adicione o duGuru à sua tela inicial para acesso rápido e uso offline.",
+    "pwaInstalled": "App instalado com sucesso! Acesse pela sua tela inicial.",
+    "logout": "Sair"
+  },
+  "onboarding": {
+    "step1": {
+      "title": "Seu Mapa Astral",
+      "description": "Explore a mandala interativa com a posição de todos os planetas no momento do seu nascimento."
+    },
+    "step2": {
+      "title": "Horóscopo Personalizado",
+      "description": "Receba previsões diárias, semanais e mensais baseadas no seu signo e ascendente."
+    },
+    "step3": {
+      "title": "Dashboard Diário",
+      "description": "Fique por dentro dos eventos astrológicos do dia e da energia dos planetas."
+    },
+    "step4": {
+      "title": "Compatibilidade",
+      "description": "Descubra como seus astros se relacionam com as pessoas ao seu redor."
+    },
+    "stepCount": "Passo {{current}} de {{total}}",
+    "skip": "Pular tour",
+    "finish": "Começar a explorar"
+  },
+  "errors": {
+    "generic": "Algo deu errado. Por favor, tente novamente.",
+    "network": "Sem conexão. Verifique sua internet e tente novamente.",
+    "unauthorized": "Sessão expirada. Faça login novamente.",
+    "notFound": "Página não encontrada.",
+    "offline": {
+      "title": "Você está offline",
+      "chartAvailable": "Seu mapa astral está disponível offline.",
+      "horoscopeAvailable": "Seu horóscopo está disponível offline.",
+      "pdfUnavailable": "O download de PDF requer conexão com a internet."
+    }
+  }
+}
