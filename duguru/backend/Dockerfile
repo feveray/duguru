@@ -28,6 +28,10 @@ RUN npx prisma generate
 # Copia código-fonte
 COPY . .
 
+# Garante que a pasta ephemeris existe (mesmo que vazia) para o COPY do runner não falhar
+RUN mkdir -p /app/ephemeris
+
+
 # Compila TypeScript → dist/
 RUN npm run build
 
