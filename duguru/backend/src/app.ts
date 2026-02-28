@@ -39,7 +39,7 @@ if (SENTRY_DSN) {
  */
 export async function createApp(): Promise<Express> {
   const app = express();
-
+  app.set('trust proxy', 1);
   // ─── Security middlewares ─────────────────────────────────────────
   app.use(
     helmet({
